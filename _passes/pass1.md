@@ -1,5 +1,5 @@
 ---
-name: Jane Doe
-position: Developer
+Название: Высокий
+Категория: 2Б
 ---
 Jane has worked on Jekyll for the past *five years*.
