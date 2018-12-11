@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+collections:
+  passes:
+    output: true
